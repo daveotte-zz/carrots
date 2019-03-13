@@ -8,6 +8,8 @@ Instantiate as many Cats as you like, then give instructions to animate the Cat 
 
 A great way to make something real happen by writing code.
 
+Requires python2.7, numpy and unicornhathd.
+
 ![Pimoroni Unicorn HAT HD](https://github.com/daveotte/carrots/blob/master/unicorn.jpg)
 
 
