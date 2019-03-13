@@ -6,4 +6,6 @@ The idea is to level up from [Scratch](https://scratch.mit.edu/projects/23857310
 
 Instantiate as many Cats as you like, then give instructions to animate the Cat (which a dot that will move around on the Unicorn hat. 
 
-[(https://github.com/daveotte/carrots/blob/master/unicorn.jpg)]
+![Pimoroni Unicorn HAT HD](https://github.com/daveotte/carrots/blob/master/unicorn.jpg)
+
+
